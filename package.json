@@ -1,0 +1,22 @@
+{
+  "name": "countdownpage",
+  "version": "1.0.0",
+  "description": "Countdown app in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Javascript",
+    "Azure",
+    "harshityadav95",
+    "Kuberentes"
+  ],
+  "author": "harshityadav95",
+  "license": "ISC",
+  "dependencies": {
+    "webwebweb": "^1.6.1"
+  }
+}
